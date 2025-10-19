@@ -1,4 +1,5 @@
 Disease Symptom Profiling using Symptom–Treatment Knowledge Graphs
+
 📄 Overview
 
 This research focuses on constructing an ontology-enriched, interpretable, and scalable knowledge graph for profiling contagious and chronic diseases. The aim is to integrate natural language processing (NLP) and Graph Neural Networks (GNNs) to enhance medical data understanding, prediction, and interpretability.
